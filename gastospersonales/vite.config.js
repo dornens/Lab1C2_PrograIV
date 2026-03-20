@@ -6,9 +6,11 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/Lab1C2_PrograIV/',npm install gh-pages --save-dev
   plugins: [
     vue(),
     vueDevTools(),
+  
   ],
   resolve: {
     alias: {
