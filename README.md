@@ -281,10 +281,10 @@ siguientes razones:
 
 ---
 
-## 👥 Autores
+## Autores
 
-- Nombre del estudiante 1
-- Nombre del estudiante 2
+- Diego Martín López Moreno
+- Franklin Aldahir Portillo Flores
 
 **Universidad Gerardo Barrios — Programación Computacional IV**  
 Laboratorio 1 — Segundo Cómputo — Semana 9
