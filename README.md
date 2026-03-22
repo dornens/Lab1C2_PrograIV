@@ -1,4 +1,4 @@
-#  Control de Gastos Personales LAB 1 C2
+#  Control de Gastos Personales Lab 1 C2 Programación Computacional IV
 
 ##  Situación Problemática
 
