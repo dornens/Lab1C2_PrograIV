@@ -40,7 +40,7 @@ nada, directamente desde el navegador.
 
 ---
 
-##  Preguntas del Laboratorio
+##  Preguntas
 
 ---
 
