@@ -36,11 +36,7 @@ nada, directamente desde el navegador.
 
 ---
 
-##  Tecnologías utilizadas
-
-- [Vue.js 3](https://vuejs.org/)
-- [Vite](https://vitejs.dev/)
-- HTML5, CSS3
+##
 
 ---
 
