@@ -280,8 +280,10 @@ siguientes razones:
 
 ## Autores
 
-- Diego Martín López Moreno
-- Franklin Aldahir Portillo Flores
+  Grupo: B2
+- Diego Martín López Moreno        (SMSS097824)
+- Franklin Aldahir Portillo Flores (SMSS011624)
+  
 
 **Universidad Gerardo Barrios — Programación Computacional IV**  
 Laboratorio 1 — Segundo Cómputo — Semana 9
